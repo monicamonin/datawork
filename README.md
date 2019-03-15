@@ -4,7 +4,9 @@
 
 In the first workshop we will look at scraping text and image data from the web and text corpuses. Included in this 'datawork' GitHub repository are a number of example techniques and files that you can scaffold off and use in your own collection and structuring of datasets.
 
-## Twitter API & Google Sheets
+When working with data be aware that all datasets are situated within and produced through broader socio-material practices. This means that all data sets are biased no data set is objective or neutral.
+
+## API Example / Twitter API & Google Sheets
 Many online platforms allow you to access their online datasets and services using an API (Application Programming Interfaces). You can think of APIs as translators that allow your code to talk to and their code. See here for a list of APIs https://any-api.com/.
 
 'Twitter Archiver' is a Google Sheets Add-On that allows you to access and search for tweets on Twitter. 
@@ -19,9 +21,9 @@ Many online platforms allow you to access their online datasets and services usi
 ### How to Search
 If you are not sure what you would like to search for you can test it out using the hashtag associated with a widescale event or movement such as the School Climate Stike (#strikeforclimate #climatestrike) or metoo (#metoo). We suggest also constraining your search in some way, for example by date. As an example if you just searched for 'cats' with no other constraint you will receive all tweets that include that word. To constrain by date you will need to a more advanced search options using any of Twitter's search options in the Advanced Rules box. Add -filter: since:2019-01-01 to search all dates from the start of the year until now. And you can also add -filter: until:2019-31-01 if you wanted to constrain all the result to only the month of January.
 
+## Pre-gathered Datasets
+You can also use datasets that have also been collated or gathered. Kaggle has over 15,000 
 
-
-Pre-gathered datasets
 Github (i.e. Machine Learning datasets, be aware that datasets contain bias! they are not objective i.e. talk about 3 black teenagers Google Search or Manet and Burrito) ALL data is biased
 Kaggle
 Make your own
@@ -37,7 +39,7 @@ But remember no dataset is 'neutral'
 (http://sfpc.io/codesocieties-winter-19/2019/01/10/building-nets-for-floating-data.html)
 
 
-Examples: 
+# Examples Covered
 
 Lucy Parson’s Lab - Examples of politically motivated data scraping.
 https://lucyparsonslabs.com/about/
