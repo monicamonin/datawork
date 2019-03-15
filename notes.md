@@ -1,1 +1,7 @@
+All inferences that you draw from your work with data are contingent upon the broader material and socio-political diagrams that produce datasets. These constrain or enable what 'reasoning' can be made by you or by the algorithm you use to process the data.
 
+To cover some examples of this, artist Trevor Paglen cites an example of image recogniton models trained on 'imagenet', a large-scale image data set used in machine learning, classifying Manet's painting Olympia as a 'burrito'. And how this result is connected to the young people in the tech industry of the San Francisco Bay area where the 'misson style' burrito was invented. There are more images of burritos than 'art' in the dataset. Burrito's overfit / art and different types underfit. As Paglen says the dataset used for training and this slippage 'reveal the historical, geographical, racial, and socio-economic positions of their trainers".
+
+This may seem silly, but it has more serious isses such as the differing results presented when typing 'three black teenagers' vs 'three white teenagers' into Google.
+
+These are examples of ‘bias’. And in machine learning bias (as a technical term) refers to errors in prediction due to over/under representing diversity in the training dataset. But there is also bias within the data itself (i.e. word embeddings (where words or phrases are mapped within a vector space) trained on google news text exhibited extreme gender bias - man is to computer programmer as woman is to home-maker).
