@@ -1,21 +1,25 @@
 # Data Work
 
-##Data Scraping
+## Data Scraping
 
-In the first workshop we will look at scraping text and image data from the web and text corpuses. Included in this 'datawork' GitHub repository are a number of example files that you can scaffold off and use in your own collection and structuring of datasets. These cover only a few key methods that might be used to scrape data and make datasets including:
+In the first workshop we will look at scraping text and image data from the web and text corpuses. Included in this 'datawork' GitHub repository are a number of example techniques and files that you can scaffold off and use in your own collection and structuring of datasets.
 
-Accessing online datasets using API (Application Programming Interfaces). You can think of APIs as translators that allow your code to talk to and request data from organisations. We will show you two ways of interfacing with the Twitter API. One involving Processing and another using an Add-on called 'Twitter Archiver' in Google Spreadsheets.
+## Twitter API & Google Sheets
+Many online platforms allow you to access their online datasets and services using an API (Application Programming Interfaces). You can think of APIs as translators that allow your code to talk to and their code. See here for a list of APIs https://any-api.com/.
 
-Advanced Rules in Twitter Archiver
-You can apply more advanced search options using any of Twitter's search options in the Advanced Rules box. Most important would be to constrain your search by dates.
-Add -filter: since:2019-01-01 to search all dates from the start of the year until now. And you can also add -filter: until:2019-31-01 if you wanted to constrain all the result to only the month of January.
+'Twitter Archiver' is a Google Sheets Add-On that allows you to access and search for tweets on Twitter. 
+
+* You will need a Twitter Account
+* Log in to Google Drive (you probably have one via your UTS email). 
+* Go to Sheets and create a new sheet
+* Select the Add-Ons menu and then Get Add-Ons
+* Search for "Twitter Archiver" and then click the Free button. A pop up will come up and follow the prompts. You will need to authorise Twitter Archiver to access your Twitter account.
+* Go to Add Ons > Twitter Archiver > Create Rule
+
+### How to Search
+If you are not sure what you would like to search for you can test it out using the hashtag associated with a widescale event or movement such as the School Climate Stike (#strikeforclimate #climatestrike) or metoo (#metoo). We suggest also constraining your search in some way, for example by date. As an example if you just searched for 'cats' with no other constraint you will receive all tweets that include that word. To constrain by date you will need to a more advanced search options using any of Twitter's search options in the Advanced Rules box. Add -filter: since:2019-01-01 to search all dates from the start of the year until now. And you can also add -filter: until:2019-31-01 if you wanted to constrain all the result to only the month of January.
 
 
-APIs (application programming interface) - online communication portals that allow you to access data from organisations
-your code < - > API < - their code/data
-I've got a working example with Temboo 
-
-Workout accessing via Google Spreadsheet Plugin
 
 Pre-gathered datasets
 Github (i.e. Machine Learning datasets, be aware that datasets contain bias! they are not objective i.e. talk about 3 black teenagers Google Search or Manet and Burrito) ALL data is biased
