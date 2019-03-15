@@ -22,10 +22,17 @@ Many online platforms allow you to access their online datasets and services usi
 If you are not sure what you would like to search for you can test it out using the hashtag associated with a widescale event or movement such as the School Climate Stike (#strikeforclimate #climatestrike) or metoo (#metoo). We suggest also constraining your search in some way, for example by date. As an example if you just searched for 'cats' with no other constraint you will receive all tweets that include that word. To constrain by date you will need to a more advanced search options using any of Twitter's search options in the Advanced Rules box. Add -filter: since:2019-01-01 to search all dates from the start of the year until now. And you can also add -filter: until:2019-31-01 if you wanted to constrain all the result to only the month of January.
 
 ## Pre-gathered Datasets
-You can also use datasets that have also been collated or gathered. Kaggle has over 15,000 
+You can also use datasets that have also been collated or gathered. 
+
+Kaggle: over 15,000 different datasets
+Image Net: image data based used to train image recognition http://www.image-net.org/
+Gutenberg Project: digitised book in the public domain http://www.gutenberg.org/
+Public Domain Review: https://publicdomainreview.org/collections/
 
 Github (i.e. Machine Learning datasets, be aware that datasets contain bias! they are not objective i.e. talk about 3 black teenagers Google Search or Manet and Burrito) ALL data is biased
 Kaggle
+
+
 Make your own
 
 Searching text corpus’
