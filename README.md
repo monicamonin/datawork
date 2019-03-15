@@ -1,9 +1,20 @@
-# datawork
+# Data Work
 
-Cover in Workshop 1
+##Data Scraping
+
+In the first workshop we will look at scraping text and image data from the web and text corpuses. Included in this 'datawork' GitHub repository are a number of example files that you can scaffold off and use in your own collection and structuring of datasets. These cover only a few key methods that might be used to scrape data and make datasets including:
+
+Accessing online datasets using API (Application Programming Interfaces). You can think of APIs as translators that allow your code to talk to and request data from organisations. We will show you two ways of interfacing with the Twitter API. One involving Processing and another using an Add-on called 'Twitter Archiver' in Google Spreadsheets.
+
+Advanced Rules in Twitter Archiver
+You can apply more advanced search options using any of Twitter's search options in the Advanced Rules box. Most important would be to constrain your search by dates.
+Add -filter: since:2019-01-01 to search all dates from the start of the year until now. And you can also add -filter: until:2019-31-01 if you wanted to constrain all the result to only the month of January.
+
+
 APIs (application programming interface) - online communication portals that allow you to access data from organisations
 your code < - > API < - their code/data
 I've got a working example with Temboo 
+
 Workout accessing via Google Spreadsheet Plugin
 
 Pre-gathered datasets
