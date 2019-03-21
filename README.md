@@ -30,7 +30,11 @@ Gutenberg Project: digitised book in the public domain http://www.gutenberg.org/
 Public Domain Review: https://publicdomainreview.org/collections/
 
 Github (i.e. Machine Learning datasets, be aware that datasets contain bias! they are not objective i.e. talk about 3 black teenagers Google Search or Manet and Burrito) ALL data is biased
-Kaggle
+
+Open government data
+- Australia (https://data.gov.au/)
+- USA (http://data.gov/)
+- Europe (http://data.europa.eu/euodp/en/data/)
 
 
 Make your own
