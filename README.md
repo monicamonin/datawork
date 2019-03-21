@@ -3,7 +3,7 @@
 Cover in Workshop 1
 APIs (application programming interface) - online communication portals that allow you to access data from organisations
 your code < - > API < - their code/data
-I've got a working example with Temboo 
+I've got a working example with Temboo
 Workout accessing via Google Spreadsheet Plugin
 
 Pre-gathered datasets
@@ -22,7 +22,7 @@ But remember no dataset is 'neutral'
 (http://sfpc.io/codesocieties-winter-19/2019/01/10/building-nets-for-floating-data.html)
 
 
-Examples: 
+Examples:
 
 Lucy Parson’s Lab - Examples of politically motivated data scraping.
 https://lucyparsonslabs.com/about/
@@ -49,3 +49,9 @@ https://www.runemadsen.com/work/speech-comparison/
 Book-Book
 http://sarahghp.com/projects/book-book.html
 
+Mitchel Whitelaw's [Climate Coasters](http://mtchl.net/climate-coasters/), [Measuring Cup](http://mtchl.net/measuring-cup/) and [Climate Bracelet](http://mtchl.net/weather-bracelet/).
+More examples of physical, tangible design informed by data. How would these object perform if they were put next to others of their category? Would a Climate Coaster in a pub stimulate discussion?
+
+[Balance](http://www.marcelhelmer.de/) by Marcel Helmer. Using the natural balance of physical options to visualise the friction between action on pollution and personal investment in the matter.
+
+[SMS to Paper Planes](https://www.christiangross.info/en/sms-to-paper-airplanes/) by Christian Gross. Visualising text messages sent in a long distance relationship. Each message informs the direction, size and amount of folds in each plane. Using blank paper keeps the text content private while still expressing the emotional value of each message through folds. Also good example of data sourcing from your own digital self.
