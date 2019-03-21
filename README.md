@@ -31,10 +31,17 @@ Public Domain Review: https://publicdomainreview.org/collections/
 
 Github (i.e. Machine Learning datasets, be aware that datasets contain bias! they are not objective i.e. talk about 3 black teenagers Google Search or Manet and Burrito) ALL data is biased
 
-Open government data
+Open government data:
 - Australia (https://data.gov.au/)
 - USA (http://data.gov/)
 - Europe (http://data.europa.eu/euodp/en/data/)
+
+Google Trends. Time-sensitive exploration of search terms with regional stats, etc. (Hit download on any graph for raw data) https://trends.google.com/trends/explore?q=corruption
+
+News APIs
+- The New York Times (https://developer.nytimes.com/)
+- The Guardian (https://open-platform.theguardian.com/)
+- Aggregate sources (https://newsapi.org/)
 
 
 Make your own
