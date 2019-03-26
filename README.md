@@ -44,15 +44,15 @@ News APIs
 - Aggregate sources (https://newsapi.org/)
 
 
-##Text Analysis Using Computational Methods
+## Text Analysis Using Computational Methods
 
-###Simple Word Count of a Text Corpus
+### Simple Word Count of a Text Corpus
 See Daniel Shiffman for online tutorials: https://shiffman.net/a2z/text-analysis/. I've modified the Concordance example so it searches and counts words and then you can output a csv file. Example file available for download here.
 
-###Distant Reading
+### Distant Reading
 Andrew can you add this in here?
 
-##Scrape
+## Scrape
 You can also scrape your own datasets together from disparate searches and sources and collate them into a dataset. We will not be covering this in class and it is not something you will have time for for this workshop but it is something to be aware of as a practice. Artist Everest Pipkin argues that scraping your own datasets can allow you to be more careful, ethical and tactical in where you source data from and who you seek to represent (and how they are represented) in datasets. 
 “Scraping is perfect for data that is ungathered, under-respected, or generally lacks the resources to be bundled into a set; data that is 'floating'" (Everest Pikin quoted by one of their students somewhere in the jumble of here) http://sfpc.io/codesocieties_students/).
 
@@ -60,41 +60,47 @@ You can also scrape your own datasets together from disparate searches and sourc
 
 ## Examples
 
-### Lucy Parson’s Lab
+#### Lucy Parson’s Lab
 Examples of issue-based data scraping.
 https://lucyparsonslabs.com/about/
 
-### Heath by Tan Lin
+#### *Heath* by Tan Lin
 Book generated from a mash-up of data sources (RSS feeds, blogs, Google searches etc) on Heath Ledger's death. 
 http://www.mottodistribution.com/shop/publishers/westphalie-verlag/heath-plagiarism-outsource.html
 
-### Not a Single Origin by Small Multiples
+#### *Not a Single Origin* by Small Multiples
 Uses Census data to generate a flavoured chocolate cultural map of Sydney
 https://smallmultiples.com.au/projects/not-a-single-origin/
 
-### Casino Busmaps by Small Multiples
+#### *Casino Busmaps* by Small Multiples
 Geocoding the Star Express Timetable in order to investigate if its route is targeting specific population groups. Geocoding is the process of converting a physical address to a geographic location (i.e. longitude/latitude).
 https://smallmultiples.com.au/projects/casino-bus-maps---the-cash-cow-suburbs/
 
-### Suns From Flickr by Penelope Umbrico
+#### *Suns From Flickr* by Penelope Umbrico
 http://www.penelopeumbrico.net/index.php/project/suns/
 
-### Shiv Integer by Matthew Plummer Fernandez
+#### *Shiv Integer* by Matthew Plummer Fernandez
 Automated bot that searchs through Thingivese (an online 3D print community) and assembles user-made models in sculptures.
 http://www.plummerfernandez.com/Shiv-Integer
 
-### Speech Comparison by Rune Madsen
+#### *Speech Comparison* by Rune Madsen
 Visual comparison of nine famous speeches using word count.
 https://www.runemadsen.com/work/speech-comparison/
 
-### Book-Book by Sarah Groff Hennigh-Palermo
+#### *Book-Book* by Sarah Groff Hennigh-Palermo
 Visualising differences between how two books sound or read.
 http://sarahghp.com/projects/book-book.html
 
-Mitchel Whitelaw's [Climate Coasters]
-(http://mtchl.net/climate-coasters/), [Measuring Cup](http://mtchl.net/measuring-cup/) and [Climate Bracelet](http://mtchl.net/weather-bracelet/).
+#### Mitchel Whitelaw
+*Climate Coasters* http://mtchl.net/climate-coasters/
+*Measuring Cup* http://mtchl.net/measuring-cup/
+*Climate Bracelet* http://mtchl.net/weather-bracelet/
 More examples of physical, tangible design informed by data. How would these object perform if they were put next to others of their category? Would a Climate Coaster in a pub stimulate discussion?
 
-[Balance](http://www.marcelhelmer.de/) by Marcel Helmer. Using the natural balance of physical options to visualise the friction between action on pollution and personal investment in the matter.
+#### *Balance* by Marcel Helmer. 
+Using the natural balance of physical options to visualise the friction between action on pollution and personal investment in the matter.
+http://www.marcelhelmer.de/
 
-[SMS to Paper Planes](https://www.christiangross.info/en/sms-to-paper-airplanes/) by Christian Gross. Visualising text messages sent in a long distance relationship. Each message informs the direction, size and amount of folds in each plane. Using blank paper keeps the text content private while still expressing the emotional value of each message through folds. Also good example of data sourcing from your own digital self.
+#### *SMS to Paper Planes* by Christian Gross. 
+Visualising text messages sent in a long distance relationship. Each message informs the direction, size and amount of folds in each plane. Using blank paper keeps the text content private while still expressing the emotional value of each message through folds. Also good example of data sourcing from your own digital self.
+https://www.christiangross.info/en/sms-to-paper-airplanes/
