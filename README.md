@@ -92,9 +92,8 @@ Visualising differences between how two books sound or read.
 http://sarahghp.com/projects/book-book.html
 
 #### Mitchel Whitelaw
-*Climate Coasters* http://mtchl.net/climate-coasters/
-*Measuring Cup* http://mtchl.net/measuring-cup/
-*Climate Bracelet* http://mtchl.net/weather-bracelet/
+*Climate Coasters* http://mtchl.net/climate-coasters/, *Measuring Cup* http://mtchl.net/measuring-cup/
+and *Climate Bracelet* http://mtchl.net/weather-bracelet/
 More examples of physical, tangible design informed by data. How would these object perform if they were put next to others of their category? Would a Climate Coaster in a pub stimulate discussion?
 
 #### *Balance* by Marcel Helmer. 
