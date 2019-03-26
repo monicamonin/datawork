@@ -50,17 +50,18 @@ News APIs
 See Daniel Shiffman for online tutorials: https://shiffman.net/a2z/text-analysis/. I've modified the Concordance example so it searches and counts words and then you can output a csv file. Example file available for download here.
 
 ###Distant Reading
-Andrew can you add this in here
+Andrew can you add this in here?
 
 ##Scrape
-You can also scrape your own datasets together from disparate searches and sources and collate them into a dataset. We will not be covering this in class and it is not something you will have time for for this workshop but it is something to be aware of as a practice. Artists Everest Pipkin argues that scraping your own datasets can allow you to be more careful, ethical and tactical in where you source data from and who you seek to represent (and how they are represented) in datasets. 
-“Scraping is perfect for data that is ungathered, under-respected, or generally lacks the resources to be bundled into a set; data that is “floating” (Everest Pikin quoted by one of their students somewhere in the jumble of here http://sfpc.io/codesocieties_students/).
+You can also scrape your own datasets together from disparate searches and sources and collate them into a dataset. We will not be covering this in class and it is not something you will have time for for this workshop but it is something to be aware of as a practice. Artist Everest Pipkin argues that scraping your own datasets can allow you to be more careful, ethical and tactical in where you source data from and who you seek to represent (and how they are represented) in datasets. 
+“Scraping is perfect for data that is ungathered, under-respected, or generally lacks the resources to be bundled into a set; data that is 'floating'" (Everest Pikin quoted by one of their students somewhere in the jumble of here) http://sfpc.io/codesocieties_students/).
 
 (http://sfpc.io/codesocieties-winter-19/2019/01/10/building-nets-for-floating-data.html)
 
 ## Examples
 
-Lucy Parson’s Lab - Examples of politically motivated data scraping.
+###Lucy Parson’s Lab
+Examples of issue-based data scraping.
 https://lucyparsonslabs.com/about/
 
 Tan Lin’s Heath - Book generated on data from the day Heath Ledger died.
