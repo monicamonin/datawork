@@ -60,33 +60,39 @@ You can also scrape your own datasets together from disparate searches and sourc
 
 ## Examples
 
-###Lucy Parson’s Lab
+### Lucy Parson’s Lab
 Examples of issue-based data scraping.
 https://lucyparsonslabs.com/about/
 
-Tan Lin’s Heath - Book generated on data from the day Heath Ledger died.
+### Heath by Tan Lin
+Book generated from a mash-up of data sources (RSS feeds, blogs, Google searches etc) on Heath Ledger's death. 
+http://www.mottodistribution.com/shop/publishers/westphalie-verlag/heath-plagiarism-outsource.html
 
-Small Multiples
-Not a Single Origin https://smallmultiples.com.au/projects/not-a-single-origin/
-Casino Busmaps (Geocoding Star Express Timetable - targeting population groups) https://smallmultiples.com.au/projects/casino-bus-maps---the-cash-cow-suburbs/
+### Not a Single Origin by Small Multiples
+Uses Census data to generate a flavoured chocolate cultural map of Sydney
+https://smallmultiples.com.au/projects/not-a-single-origin/
 
-Penelope Umbrico - Suns From Flickr
+### Casino Busmaps by Small Multiples
+Geocoding the Star Express Timetable in order to investigate if its route is targeting specific population groups. Geocoding is the process of converting a physical address to a geographic location (i.e. longitude/latitude).
+https://smallmultiples.com.au/projects/casino-bus-maps---the-cash-cow-suburbs/
+
+### Suns From Flickr by Penelope Umbrico
 http://www.penelopeumbrico.net/index.php/project/suns/
 
-Matthew Plummer Fernandez
-Shiv Integer
+### Shiv Integer by Matthew Plummer Fernandez
+Automated bot that searchs through Thingivese (an online 3D print community) and assembles user-made models in sculptures.
 http://www.plummerfernandez.com/Shiv-Integer
-"Shiv Integer is a bot making assemblage art for 3D printers. Rummaging through Thingiverse, the biggest online 3D-Print community and a vast archive of user-made models - full of knick-knacks and engineering parts - the bot picks objects at random to conjoin into sculptures and gives them apt word-salad names such as "disc on top of an e-juice golf." The process follows a lineage of Dadaist readymade and chance art, but also explores the authorship-inheritance of Creative Commons licensing, as well as performing an archiving of an Internet subculture, taking cross-database snapshots of 3D-Print culture.
 
-The bot ran anonymously with only a vague FAQ explanation. Thingiverse users either love or hate the bot; it’s provoked hundreds of comments ranging from fan poetry to hate mail, and sparked a long debate over if it makes art or spam. User’s binding stake in authorship made them fiercely active, forming a key facet of Shiv Integer, which from the outset was an anagram of Thingiverse."
-
-Speech Comparison by Rune Madsen
+### Speech Comparison by Rune Madsen
+Visual comparison of nine famous speeches using word count.
 https://www.runemadsen.com/work/speech-comparison/
 
-Book-Book
+### Book-Book by Sarah Groff Hennigh-Palermo
+Visualising differences between how two books sound or read.
 http://sarahghp.com/projects/book-book.html
 
-Mitchel Whitelaw's [Climate Coasters](http://mtchl.net/climate-coasters/), [Measuring Cup](http://mtchl.net/measuring-cup/) and [Climate Bracelet](http://mtchl.net/weather-bracelet/).
+Mitchel Whitelaw's [Climate Coasters]
+(http://mtchl.net/climate-coasters/), [Measuring Cup](http://mtchl.net/measuring-cup/) and [Climate Bracelet](http://mtchl.net/weather-bracelet/).
 More examples of physical, tangible design informed by data. How would these object perform if they were put next to others of their category? Would a Climate Coaster in a pub stimulate discussion?
 
 [Balance](http://www.marcelhelmer.de/) by Marcel Helmer. Using the natural balance of physical options to visualise the friction between action on pollution and personal investment in the matter.
