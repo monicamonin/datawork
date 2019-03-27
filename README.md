@@ -21,6 +21,11 @@ Many online platforms allow you to access their online datasets and services usi
 ### How to Search
 If you are not sure what you would like to search for you can test it out using the hashtag associated with a widescale event or movement such as the School Climate Stike (#strikeforclimate #climatestrike) or metoo (#metoo). We suggest also constraining your search in some way, for example by date. As an example if you just searched for 'cats' with no other constraint you will receive all tweets that include that word. To constrain by date you will need to a more advanced search options using any of Twitter's search options in the Advanced Rules box. Add -filter: since:2019-01-01 to search all dates from the start of the year until now. And you can also add -filter: until:2019-31-01 if you wanted to constrain all the result to only the month of January.
 
+## Google Trends
+Using Google Trends is an easy way to see trends in Google searches around ideas or events. You can compare terms and also download the data as a CSV file. We have an example file plotting 3 trends of Women in Law, Women in Stem and Women in Government that was used as an example in Google's International Women's Day story. See the Processing file here called Trends_to_Plot.
+
+See story on search trends relevant to International Women's Day https://trends.google.com/trends/story/US_cu__IBrPloBAADNPM_en.
+
 ## Pre-gathered Datasets
 You can also use datasets that have also been collated or gathered.
 
