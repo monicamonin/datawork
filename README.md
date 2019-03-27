@@ -6,20 +6,14 @@ In the first workshop we will look at scraping text and image data from the web 
 
 When working with data be aware that all datasets are situated within and produced through broader socio-material practices. This means that all data sets are biased no data set is objective or neutral.
 
-## API Example / Twitter API & Google Sheets
+## API Example / Twitter API with Node.js
 Many online platforms allow you to access their online datasets and services using an API (Application Programming Interfaces). You can think of APIs as translators that allow your code to talk to and their code. See here for a list of APIs https://any-api.com/.
 
-'Twitter Archiver' is a Google Sheets Add-On that allows you to access and search for tweets on Twitter.
+Node.js is an open source server environment. Basically for this example it will let us...
 
-* You will need a Twitter Account
-* Log in to Google Drive (you probably have one via your UTS email).
-* Go to Sheets and create a new sheet
-* Select the Add-Ons menu and then Get Add-Ons
-* Search for "Twitter Archiver" and then click the Free button. A pop up will come up and follow the prompts. You will need to authorise Twitter Archiver to access your Twitter account.
-* Go to Add Ons > Twitter Archiver > Create Rule
+I am changing this to node, npm and the twit library!!!
 
 ### How to Search
-If you are not sure what you would like to search for you can test it out using the hashtag associated with a widescale event or movement such as the School Climate Stike (#strikeforclimate #climatestrike) or metoo (#metoo). We suggest also constraining your search in some way, for example by date. As an example if you just searched for 'cats' with no other constraint you will receive all tweets that include that word. To constrain by date you will need to a more advanced search options using any of Twitter's search options in the Advanced Rules box. Add -filter: since:2019-01-01 to search all dates from the start of the year until now. And you can also add -filter: until:2019-31-01 if you wanted to constrain all the result to only the month of January.
 
 ## Google Trends
 Using Google Trends is an easy way to see trends in Google searches around ideas or events. You can compare terms and also download the data as a CSV file. We have an example file plotting 3 trends of Women in Law, Women in Stem and Women in Government that was used as an example in Google's International Women's Day story. See the Processing file here called Trends_to_Plot.
