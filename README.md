@@ -46,8 +46,10 @@ News APIs
 
 ## Text Analysis Using Computational Methods
 
-### Simple Word Count of a Text Corpus
-See Daniel Shiffman for online tutorials: https://shiffman.net/a2z/text-analysis/. I've modified the Concordance example so it searches and counts words and then you can output a csv file. Example file available for download here.
+### Simple Word Count of a Text Corpus (Concordance)
+See the Concordance example to be able to generate a word count on a body of text. See the Book-Book and Speech Comparison examples as they both use word counts.
+
+After you have downloaded the example files here. Open the index.html file up in your browser. Everything else is pretty self explanatory!
 
 ### Distant Reading
 Andrew can you add this in here?
