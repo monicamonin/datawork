@@ -4,12 +4,12 @@
 
 In the first workshop we will look at scraping text and image data from the web and text corpuses. Included in this 'datawork' GitHub repository are a number of example techniques and files that you can scaffold off and use in your own collection and structuring of datasets.
 
-When working with data be aware that all datasets are situated within and produced through broader socio-material practices. This means that all data sets are biased, no data set is objective or 'neutral'.
+When working with data be aware that all datasets are situated within and produced through broader socio-material practices. This means that all data sets are biased, no data set is objective or 'neutral'. All data has a history that reflects the broader material/social/political/cultural diagrams through which it is formed. Here is an example of how societal racism materialised in Google's image search algorithm https://www.theguardian.com/commentisfree/2016/jun/10/three-black-teenagers-google-racist-tweet. Another thing to consider is who is able to be represented and in what ways are they able to represent themselves? Not all communities of people have equal representation on the internet. For example consider the under-representation of content on women (and other groups) on Wikipedia http://www.artandfeminism.org/.
 
 ## API Example / Twitter API with Node.js
 Many online platforms allow you to access their online datasets and services using an API (Application Programming Interfaces). You can think of APIs as translators that allow your code to talk to and their code. See here for a list of APIs https://any-api.com/.
 
-In the example file we use a program to send a request for data to Twitter's API and get a response. Twitter have recently changed rules regarding their API constraining use of its API and charging for access priveleges. With a free API account you can now only access the past 7 days of tweets. To run this on your own you will need to request a Twitter Developer account and create an API Key. Instructions on how to do this can be found at https://developer.twitter.com/content/developer-twitter/en.html.
+In the example file we use a program to send a request for data to Twitter's API and get a response. Twitter have recently changed rules regarding their API constraining use of its API and charging for access privileges. With a free API account you can now only access the past 7 days of tweets. To run this on your own you will need to request a Twitter Developer account and create an API Key. Instructions on how to do this can be found at https://developer.twitter.com/content/developer-twitter/en.html.
 
 (Instructions for Mac)
 1. Download and install Node.js https://nodejs.org/en/. Node is basically a open source server environment, where you can make your own server.
@@ -29,6 +29,7 @@ An easy way to access historical tweets is through TweetDeck https://tweetdeck.t
 
 ### More extensive coding and API tutorial playlist
 https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r&index=1
+And see the NYT example here too.
 
 ## Google Trends
 Using Google Trends is an easy way to see trends in Google searches around ideas or events. You can compare terms and also download the data as a CSV file. We have an example file plotting 3 trends of Women in Law, Women in Stem and Women in Government that was used as an example in Google's International Women's Day story. See the Processing file here called Trends_to_Plot.
