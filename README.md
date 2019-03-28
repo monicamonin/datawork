@@ -9,21 +9,20 @@ When working with data be aware that all datasets are situated within and produc
 ## API Example / Twitter API with Node.js
 Many online platforms allow you to access their online datasets and services using an API (Application Programming Interfaces). You can think of APIs as translators that allow your code to talk to and their code. See here for a list of APIs https://any-api.com/.
 
-In the example file we use a program to send a request for data to Twitter's API and get a response. Twitter have recently changed rules regarding their API constraining use of its API and charging for access priveleges. With a free API account you can only access the past 7 days of tweets.
+In the example file we use a program to send a request for data to Twitter's API and get a response. Twitter have recently changed rules regarding their API constraining use of its API and charging for access priveleges. With a free API account you can now only access the past 7 days of tweets. To run this on your own you will need to request a Twitter Developer account and create an API Key. Instructions on how to do this can be found at https://developer.twitter.com/content/developer-twitter/en.html.
 
 (Instructions for Mac)
 1. Download and install Node.js https://nodejs.org/en/. Node is basically a open source server environment, where you can make your own server.
 2. Open up Terminal
-3. Type 'node' and press enter, if you see a > symbol come up that means Node is installed and running.
+3. Type 'node' and press enter, if you see a > symbol come up that means Node is installed and running. You could use this prompt to run Javascripty things in the terminal window, but we are just using this to make sure Node is working.
 4. Type .exit to exit
-5. Create a folder in your Documents folder, I created one called twitterbot
-6. Type cd and then drag the folder 'twitterbot' into the Terminal window. You will see it now says something like 'cd /Users/115223/Documents/twitterbot'. This is a command to tell Terminal to work from that folder. Press Enter.
-7. npm is a package manager, it lets you install packages or libraries that have been written by other people that allow you to do common tasks. 
-7. Type 'npm init' to create a package manager for your twitterbot project.
-8. This will prompt you for details on your project.
-9. 
+5. Download the files for this repository and unzip the folder
+6. Type 'cd ' into the terminal window and drag the TwitterSearch folder into the window. You will see something like 'cd /Users/115223/Documents/TwitterSearch '. Hit return. The cd command in terminal allows you to move between folders on your computer. Basically this will mean we will be working from the TwitterSearch folder and can access the files inside without having to type in their full address on the machine.
+7. Type 'node twitter.js'. This will run the this javascript file using node. This file requests a search from Twitter's api, does some quick and rough data massaging and saves it out a .csv file. Open the .csv file and take a look, you will see a table of tweets on the climate strike by date.
+8. Open up the twitter.js file in a code editor
 
-This is a VERY quick overview, for more explanation what the first four videos of Shiffmans Twitterbot Tutorial https://www.youtube.com/watch?v=RF5_MPSNAtU&list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV.
+
+This is a VERY quick overview, for more explanation on how Node and talking to the Twitter API works, watch the first four videos of Shiffmans Twitterbot Tutorial https://www.youtube.com/watch?v=RF5_MPSNAtU&list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV. 
 
 ### TweetDeck
 An easy way to access historical tweets is through TweetDeck https://tweetdeck.twitter.com/.
