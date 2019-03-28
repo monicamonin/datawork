@@ -4,16 +4,20 @@
 
 In the first workshop we will look at scraping text and image data from the web and text corpuses. Included in this 'datawork' GitHub repository are a number of example techniques and files that you can scaffold off and use in your own collection and structuring of datasets.
 
-When working with data be aware that all datasets are situated within and produced through broader socio-material practices. This means that all data sets are biased no data set is objective or neutral.
+When working with data be aware that all datasets are situated within and produced through broader socio-material practices. This means that all data sets are biased, no data set is objective or 'neutral'.
 
 ## API Example / Twitter API with Node.js
 Many online platforms allow you to access their online datasets and services using an API (Application Programming Interfaces). You can think of APIs as translators that allow your code to talk to and their code. See here for a list of APIs https://any-api.com/.
+
+In the example file we use a program to send a request for data to Twitter's API and get a response. Twitter have recently changed rules regarding their API constraining use of its API and charging for access priveleges. With a free API account you can only access the past 7 days of tweets.
 
 Node.js is an open source server environment. Basically for this example it will let us...
 
 I am changing this to node, npm and the twit library!!!
 
-### How to Search
+### TweetDeck
+An easy way to access historical tweets is through TweetDeck https://tweetdeck.twitter.com/.
+
 
 ## Google Trends
 Using Google Trends is an easy way to see trends in Google searches around ideas or events. You can compare terms and also download the data as a CSV file. We have an example file plotting 3 trends of Women in Law, Women in Stem and Women in Government that was used as an example in Google's International Women's Day story. See the Processing file here called Trends_to_Plot.
