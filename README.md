@@ -18,16 +18,16 @@ In the example file we use a program to send a request for data to Twitter's API
 4. Type .exit to exit
 5. Download the files for this repository and unzip the folder
 6. Type 'cd ' into the terminal window and drag the TwitterSearch folder into the window. You will see something like 'cd /Users/115223/Documents/TwitterSearch '. Hit return. The cd command in terminal allows you to move between folders on your computer. Basically this will mean we will be working from the TwitterSearch folder and can access the files inside without having to type in their full address on the machine.
-7. Type 'node twitter.js'. This will run the this javascript file using node. This file requests a search from Twitter's api, does some quick and rough data massaging and saves it out a .csv file. Open the .csv file and take a look, you will see a table of tweets on the climate strike by date.
-8. Open up the twitter.js file in a code editor
-
+7. Open up the twitter.js file in a code editor. Add your API keys to the fields.
+8. Go back to terminal and type 'node twitter.js'. This will run the this javascript file using node. This file requests a search from Twitter's api, does some quick and rough data massaging and saves it out a .csv file. Open the .csv file and take a look, you will see a table of tweets on the climate strike by date.
+9. Edit the search parameters to search for different things!
 
 This is a VERY quick overview, for more explanation on how Node and talking to the Twitter API works, watch the first four videos of Shiffmans Twitterbot Tutorial https://www.youtube.com/watch?v=RF5_MPSNAtU&list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV. 
 
 ### TweetDeck
 An easy way to access historical tweets is through TweetDeck https://tweetdeck.twitter.com/.
 
-### More extensive API / Code Tutorial Playlist
+### More extensive coding and API tutorial playlist
 https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r&index=1
 
 ## Google Trends
@@ -66,13 +66,13 @@ See the Concordance example to be able to generate a word count on a body of tex
 After you have downloaded the example files here. Open the index.html file up in your browser. Everything else is pretty self explanatory!
 
 ### Distant Reading
-Andrew can you add this in here?
+Andrew will add something here soon!
 
 ## Scrape
 You can also scrape your own datasets together from disparate searches and sources and collate them into a dataset. We will not be covering this in class and it is not something you will have time for for this workshop but it is something to be aware of as a practice. Artist Everest Pipkin argues that scraping your own datasets can allow you to be more careful, ethical and tactical in where you source data from and who you seek to represent (and how they are represented) in datasets. 
 “Scraping is perfect for data that is ungathered, under-respected, or generally lacks the resources to be bundled into a set; data that is 'floating'" (Everest Pikin quoted by one of their students somewhere in the jumble of here) http://sfpc.io/codesocieties_students/).
 
-(http://sfpc.io/codesocieties-winter-19/2019/01/10/building-nets-for-floating-data.html)
+If you are curious there are tutorials you can find online on how to use Node and node libraries to scrape data programatically.
 
 ## Examples
 
