@@ -6,6 +6,11 @@ In the first workshop we will look at scraping text and image data from the web 
 
 When working with data be aware that all datasets are situated within and produced through broader socio-material practices. This means that all data sets are biased, no data set is objective or 'neutral'. All data has a history that reflects the broader material/social/political/cultural diagrams through which it is formed. Here is an example of how societal racism materialised in Google's image search algorithm https://www.theguardian.com/commentisfree/2016/jun/10/three-black-teenagers-google-racist-tweet. Another thing to consider is who is able to be represented and in what ways are they able to represent themselves? Not all communities of people have equal representation on the internet. For example consider the under-representation of content on women (and other groups) on Wikipedia http://www.artandfeminism.org/.
 
+*"Data will always bear the marks of its history. That is human history, held in those data sets. So if we’re going  to try to use that to train a system, to make recommendations or to make autonomous decisions, we need to be  deeply aware of how that history has worked."*
+
+As discussed in Why AI is Still Waiting for its Ethics Transplant, Interview with Kate Crawford. https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/amp
+
+
 ## API Example / Twitter API with Node.js
 Many online platforms allow you to access their online datasets and services using an API (Application Programming Interfaces). You can think of APIs as translators that allow your code to talk to and their code. See here for a list of APIs https://any-api.com/.
 
