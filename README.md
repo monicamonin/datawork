@@ -27,6 +27,8 @@ This is a VERY quick overview, for more explanation on how Node and talking to t
 ### TweetDeck
 An easy way to access historical tweets is through TweetDeck https://tweetdeck.twitter.com/.
 
+### More extensive API / Code Tutorial Playlist
+https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r&index=1
 
 ## Google Trends
 Using Google Trends is an easy way to see trends in Google searches around ideas or events. You can compare terms and also download the data as a CSV file. We have an example file plotting 3 trends of Women in Law, Women in Stem and Women in Government that was used as an example in Google's International Women's Day story. See the Processing file here called Trends_to_Plot.
