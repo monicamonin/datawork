@@ -11,9 +11,19 @@ Many online platforms allow you to access their online datasets and services usi
 
 In the example file we use a program to send a request for data to Twitter's API and get a response. Twitter have recently changed rules regarding their API constraining use of its API and charging for access priveleges. With a free API account you can only access the past 7 days of tweets.
 
-Node.js is an open source server environment. Basically for this example it will let us...
+(Instructions for Mac)
+1. Download and install Node.js https://nodejs.org/en/. Node is basically a open source server environment, where you can make your own server.
+2. Open up Terminal
+3. Type 'node' and press enter, if you see a > symbol come up that means Node is installed and running.
+4. Type .exit to exit
+5. Create a folder in your Documents folder, I created one called twitterbot
+6. Type cd and then drag the folder 'twitterbot' into the Terminal window. You will see it now says something like 'cd /Users/115223/Documents/twitterbot'. This is a command to tell Terminal to work from that folder. Press Enter.
+7. npm is a package manager, it lets you install packages or libraries that have been written by other people that allow you to do common tasks. 
+7. Type 'npm init' to create a package manager for your twitterbot project.
+8. This will prompt you for details on your project.
+9. 
 
-I am changing this to node, npm and the twit library!!!
+This is a VERY quick overview, for more explanation what the first four videos of Shiffmans Twitterbot Tutorial https://www.youtube.com/watch?v=RF5_MPSNAtU&list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV.
 
 ### TweetDeck
 An easy way to access historical tweets is through TweetDeck https://tweetdeck.twitter.com/.
